@@ -1,12 +1,24 @@
-# React + Vite
+<img width="1893" height="982" alt="Captura de pantalla 2025-08-23 231820" src="https://github.com/user-attachments/assets/911ce369-fedf-4ac8-91b9-e080ae5a8a77" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Contador React — Proyecto de práctica
+Una aplicación interactiva desarrollada con React que permite aumentar, disminuir y reiniciar un contador, con historial de acciones, animaciones visuales, control de límites y soporte para modo oscuro. Ideal para practicar estados, efectos, condicionales y estilos dinámicos en React.
 
-Currently, two official plugins are available:
+✨ Funcionalidades principales
+🔢 Contador con límites entre 0 y 10
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📜 Historial de acciones con registro horario
 
-## Expanding the ESLint configuration
+🚨 Modal de advertencia al superar límites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌙☀️ Modo oscuro/claro con botón de alternancia
+
+🎯 Animación visual al cambiar el valor
+
+🧼 Botón para resetear el contador
+
+--------------------------------------------
+Tecnología	Uso
+React:Renderizado de componentes y manejo de estado
+JavaScript:	Lógica de interacción y efectos
+CSS:	Estilos personalizados y animaciones
+Vite:	Entorno de desarrollo rápido
